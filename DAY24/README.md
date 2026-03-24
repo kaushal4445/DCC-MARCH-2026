@@ -26,21 +26,6 @@ Multiply prefix with stored suffix
 
 For each cell:
 
-𝑝
-[
-𝑖
-]
-[
-𝑗
-]
-=
-(
-product of elements before
-)
-×
-(
-product of elements after
-)
 p[i][j]=(product of elements before)×(product of elements after)
 
 This avoids recomputation and gives an efficient solution.
